@@ -1,0 +1,8 @@
+{
+  "name": "power.neoorigins.fox_jump.name",
+  "description": "power.neoorigins.fox_jump.description",
+  "attribute": "minecraft:generic.jump_strength",
+  "amount": 0.2,
+  "operation": "add_value",
+  "type": "neoorigins:attribute_modifier"
+}

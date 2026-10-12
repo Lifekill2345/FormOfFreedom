@@ -1,0 +1,13 @@
+{
+  "name": {
+    "text": "Human"
+  },
+  "description": {
+    "text": "human"
+  },
+  "icon": "minecraft:player_head",
+  "impact": "none",
+  "order": 0,
+  "powers": [],
+  "upgrades": []
+}

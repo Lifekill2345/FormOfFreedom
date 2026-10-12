@@ -1,0 +1,7 @@
+{
+  "name": "f_pescatarian_n",
+  "description": "f_pescatarian_d",
+  "nutrition": 2,
+  "food_tag": "c:foods/cooked_fishes",
+  "type": "neoorigins:modify_food_nutrition"
+}

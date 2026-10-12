@@ -1,0 +1,7 @@
+{
+  "name": "f_crustulumvore_n",
+  "description": "f_crustulumvore_d",
+  "nutrition": 2,
+  "food_tag": "c:foods/pie",
+  "type": "neoorigins:modify_food_nutrition"
+}

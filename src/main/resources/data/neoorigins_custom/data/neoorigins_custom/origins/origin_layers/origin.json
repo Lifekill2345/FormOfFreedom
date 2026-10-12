@@ -1,0 +1,8 @@
+{
+  "order": 3,
+  "origins": [
+    "neoorigins_custom:fox",
+    "neoorigins_custom:human",
+    "neoorigins_custom:my_origin"
+  ]
+}

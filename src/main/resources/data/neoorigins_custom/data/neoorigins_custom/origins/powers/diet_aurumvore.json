@@ -1,0 +1,7 @@
+{
+  "name": "f_aurumvore_n",
+  "description": "f_aurumvore_d",
+  "nutrition": 2,
+  "food_tag": "c:foods/golden",
+  "type": "neoorigins:modify_food_nutrition"
+}

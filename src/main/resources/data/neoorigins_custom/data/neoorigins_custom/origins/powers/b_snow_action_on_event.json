@@ -1,0 +1,18 @@
+{
+  "interval": 600,
+  "condition": {
+    "type": "neoorigins:biome",
+    "tag": "#minecraft:snow_golem_melts"
+  },
+  "entity_action": {
+    "type": "neoorigins:apply_effect",
+    "effect": "slowness",
+    "duration": 60,
+    "amplifier": 1,
+    "show_icon": false,
+    "id": "minecraft:slowness"
+  },
+  "type": "neoorigins:condition_passive",
+  "name": "power.neoorigins.heatstroke.name",
+  "description": "power.neoorigins.heatstroke.description"
+}

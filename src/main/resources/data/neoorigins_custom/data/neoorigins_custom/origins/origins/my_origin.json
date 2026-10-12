@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "description": "",
+  "icon": "minecraft:player_head",
+  "impact": "none",
+  "order": 0,
+  "powers": [
+    "neoorigins_custom:my_origin_modify_food_nutrition",
+    "neoorigins_custom:my_origin_modify_food_nutrition_2"
+  ],
+  "upgrades": []
+}

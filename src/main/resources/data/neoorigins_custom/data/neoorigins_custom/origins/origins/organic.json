@@ -1,0 +1,13 @@
+{
+  "name": {
+    "text": "Organic"
+  },
+  "description": {
+    "text": "Organic life the defult"
+  },
+  "icon": "minecraft:poppy",
+  "impact": "none",
+  "order": 0,
+  "powers": [],
+  "upgrades": []
+}
