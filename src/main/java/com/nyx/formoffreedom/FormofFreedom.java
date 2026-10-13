@@ -1,5 +1,6 @@
 package com.nyx.formoffreedom;
 
+import com.nyx.formoffreedom.Item.ModCreativeModTab;
 import com.nyx.formoffreedom.Item.ModItems;
 import com.nyx.formoffreedom.block.ModBlocks;
 import org.slf4j.Logger;
@@ -28,6 +29,8 @@ public class FormofFreedom {
 
 
         NeoForge.EVENT_BUS.register(this);
+
+        ModCreativeModTab.register(modEventBus);
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);

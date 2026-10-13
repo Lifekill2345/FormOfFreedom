@@ -9,8 +9,16 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 public class ModItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(FormofFreedom.MODID);
 
-    public static final DeferredItem<Item> FUELCELL = ITEMS.register("fuelcell",
+    public static final DeferredItem<Item> FLUIDCANISTER = ITEMS.register("fluid_canister",
             () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> SOLIDCANISTER = ITEMS.register("solid_canister",
+            () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> RFCANISTER = ITEMS.register("rf_canister",
+            () -> new Item(new Item.Properties()));
+
+
 
 
     public static void register(IEventBus eventBus){

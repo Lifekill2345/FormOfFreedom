@@ -21,6 +21,9 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(2f).requiresCorrectToolForDrops().sound(SoundType.WOOD)));
 
+    public static final DeferredBlock<Block> CANISTER_WORKBENCH = registerBlock("canister_workbench",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(2f).requiresCorrectToolForDrops().sound(SoundType.WOOD)));
 
 
 

@@ -1,3 +1,8 @@
 {
-  "item.formoffreedom.fuelcell": "Fuel Cell"
+  "item.formoffreedom.fluid_canister": "fluid canister",
+  "item.formoffreedom.solid_canister": "solid canister",
+  "item.formoffreedom.rf_canister": "rf canister",
+
+  "block.formoffreedom.fluid_composter": "fluid composter",
+  "block.formoffreedom.canister_workbench": "canister workbench"
 }
