@@ -1,6 +1,12 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "minecraft:block/cube",
   "textures": {
-    "all": "formoffreedom:block/canister_workbench"
+    "down": "formoffreedom:block/canister_workbench_bottom",
+    "east": "formoffreedom:block/canister_workbench_side",
+    "north": "formoffreedom:block/canister_workbench_front",
+    "particle": "formoffreedom:block/canister_workbench_front",
+    "south": "formoffreedom:block/canister_workbench_front",
+    "up": "formoffreedom:block/canister_workbench_top",
+    "west": "formoffreedom:block/canister_workbench_side"
   }
 }

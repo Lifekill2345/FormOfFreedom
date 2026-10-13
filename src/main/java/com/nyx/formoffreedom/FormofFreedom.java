@@ -1,5 +1,6 @@
 package com.nyx.formoffreedom;
 
+import com.nyx.formoffreedom.Attribute.ModAttributes;
 import com.nyx.formoffreedom.Item.ModCreativeModTab;
 import com.nyx.formoffreedom.Item.ModItems;
 import com.nyx.formoffreedom.block.ModBlocks;
@@ -34,7 +35,7 @@ public class FormofFreedom {
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
-
+        ModAttributes.register(modEventBus);
 
 
         // Register the item to a creative tab
