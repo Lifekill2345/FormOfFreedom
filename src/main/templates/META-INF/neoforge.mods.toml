@@ -86,6 +86,29 @@ Example mod description.
     ordering="NONE"
     side="BOTH"
 
+
+[[dependencies.${mod_id}]]
+modId="neoorigins"
+type="required"
+versionRange="[2.2.30,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.your_mod_id]]
+modId="Icarus"
+mandatory=true
+versionRange="[4.7.9,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.your_mod_id]]
+modId="tyzs_skills"
+mandatory=true
+versionRange="[6.4.2,)"
+ordering="AFTER"
+side="BOTH"
+
+
 # Features are specific properties of the game environment, that you may want to declare you require. This example declares
 # that your mod requires GL version 3.2 or higher. Other features will be added. They are side aware so declaring this won't
 # stop your mod loading on the server for example.

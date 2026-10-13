@@ -25,9 +25,9 @@ public class ModAttributes {
             -10000,
             10000
     ));
-    public static final Holder<Attribute> ORIGIN_TYPE = ATTRIBUTES.register("canister_drain", () -> new RangedAttribute(
+    public static final Holder<Attribute> CANISTER_RF = ATTRIBUTES.register("canister_type_rf", () -> new RangedAttribute(
             // The translation key to use.
-            "itemGroup." + MODID + ".canister_drain_attribute",
+            "itemGroup." + MODID + ".canister_type_rf",
             // The default value.
             0,
             // Min and max values.
