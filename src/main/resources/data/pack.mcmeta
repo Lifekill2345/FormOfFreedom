@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "NeoOrigins custom origins (in-game creator)",
+    "pack_format": 48,
+    "min_format": 48,
+    "max_format": 48
+  }
+}

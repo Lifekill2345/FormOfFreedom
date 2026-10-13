@@ -3,13 +3,14 @@
     "text": "Fox"
   },
   "description": {
-    "text": "itsa fox"
+    "text": "Foxie"
   },
   "icon": "minecraft:fox_spawn_egg",
-  "impact": "low",
+  "impact": "medium",
   "order": 0,
   "powers": [
-    "neoorigins_custom:fox_attribute_modifier"
+    "neoorigins_custom:am_jump.25",
+    "formoffreedom:diet_carnivore"
   ],
   "upgrades": []
 }

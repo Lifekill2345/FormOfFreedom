@@ -9,8 +9,7 @@
   "impact": "medium",
   "order": 0,
   "powers": [
-    "neoorigins_custom:eldrige_phantom_form",
-    "neoorigins_custom:eldrige_light_level_effect"
+    "neoorigins_custom:a_eldrige_wraith_phase"
   ],
   "upgrades": []
 }

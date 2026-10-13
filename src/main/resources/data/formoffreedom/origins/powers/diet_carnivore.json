@@ -1,0 +1,7 @@
+{
+  "name": "f_carnavore_n",
+  "description": "f_carnavore_d",
+  "nutrition": 2,
+  "food_tag": "neoorigins:meat_foods",
+  "type": "neoorigins:modify_food_nutrition"
+}

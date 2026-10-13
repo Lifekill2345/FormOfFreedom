@@ -1,0 +1,12 @@
+{
+  "name": "husky",
+  "description": "dog",
+  "icon": "minecraft:bone",
+  "impact": "low",
+  "order": 0,
+  "powers": [
+    "formoffreedom:diet_carnivore",
+    "formoffreedom:damige_frostinumity.json"
+  ],
+  "upgrades": []
+}

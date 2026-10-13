@@ -1,0 +1,9 @@
+{
+  "blocked_blocks":["#minecraft:incorrect_for_stone_tool","#minecraft:wither_immune"],
+  "name":"a_phase_n",
+  "description":"a_phase_d",
+  "exhaustion_per_tick":0.2,
+  "type": "neoorigins:wraith_phase",
+  "always_on":false
+
+}
