@@ -1,6 +1,7 @@
 package com.nyx.formoffreedom.Item;
 
 import com.nyx.formoffreedom.FormofFreedom;
+import com.nyx.formoffreedom.Item.custom.biochaffItem;
 import net.minecraft.world.item.Item;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
@@ -18,6 +19,8 @@ public class ModItems {
     public static final DeferredItem<Item> RFCANISTER = ITEMS.register("rf_canister",
             () -> new Item(new Item.Properties()));
 
+    public static final DeferredItem<Item> BIOCHAFF = ITEMS.register("bio_chaff",
+            () -> new biochaffItem(new Item.Properties()));
 
 
 

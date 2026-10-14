@@ -28,6 +28,7 @@ public class ModCreativeModTab {
                 output.accept(ModItems.SOLIDCANISTER.get());
                 output.accept(ModItems.FLUIDCANISTER.get());
                 output.accept(ModItems.RFCANISTER.get());
+                output.accept(ModItems.BIOCHAFF.get());
 
                 // Accepts an ItemLike. This assumes that MY_BLOCK has a corresponding item.
                 output.accept(ModBlocks.FLUID_COMPOSTER.get());
