@@ -1,0 +1,8 @@
+{
+  "name": "am_fallmult_n",
+  "description": "am_fallmult_d",
+  "attribute": "minecraft:generic.fall_damage_multiplier",
+  "amount": -0.5,
+  "operation": "add_value",
+  "type": "neoorigins:attribute_modifier"
+}

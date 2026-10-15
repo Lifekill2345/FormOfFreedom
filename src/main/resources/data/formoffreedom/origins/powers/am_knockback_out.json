@@ -1,0 +1,8 @@
+{
+  "name": "am_knockback_out_n",
+  "description": "am_knockback_out_d",
+  "attribute": "minecraft:generic.attack_knockback",
+  "amount": 1,
+  "operation": "add_value",
+  "type": "neoorigins:attribute_modifier"
+}

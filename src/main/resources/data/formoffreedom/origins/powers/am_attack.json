@@ -1,0 +1,8 @@
+{
+  "name": "am_attack_n",
+  "description": "am_attack_d",
+  "attribute": "minecraft:generic.attack_damage",
+  "amount": 1,
+  "operation": "add_value",
+  "type": "neoorigins:attribute_modifier"
+}

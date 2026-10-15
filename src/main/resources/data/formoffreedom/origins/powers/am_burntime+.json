@@ -1,0 +1,8 @@
+{
+  "name": "am_burning_time+_n",
+  "description": "am_burning_time+_d",
+  "attribute": "minecraft:generic.burning_time",
+  "amount": 0.2,
+  "operation": "add_value",
+  "type": "neoorigins:attribute_modifier"
+}
