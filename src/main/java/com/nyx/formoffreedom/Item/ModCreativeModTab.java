@@ -34,6 +34,9 @@ public class ModCreativeModTab {
                 output.accept(ModBlocks.FLUID_COMPOSTER.get());
                 output.accept(ModBlocks.CANISTER_WORKBENCH.get());
 
+                output.accept(ModItems.SILICON_BRASS_INGOT);
+                output.accept(ModItems.SILICON_BRASS_MIX);
+
             })
             .build()
     );

@@ -22,6 +22,12 @@ public class ModItems {
     public static final DeferredItem<Item> BIOCHAFF = ITEMS.register("bio_chaff",
             () -> new biochaffItem(new Item.Properties()));
 
+    public static final DeferredItem<Item> SILICON_BRASS_MIX = ITEMS.register("silicon_brass_mix",
+            () -> new biochaffItem(new Item.Properties()));
+
+    public static final DeferredItem<Item> SILICON_BRASS_INGOT = ITEMS.register("silicon_brass_ingot",
+            () -> new biochaffItem(new Item.Properties()));
+
 
 
     public static void register(IEventBus eventBus){
